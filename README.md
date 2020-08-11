@@ -42,6 +42,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 
 # Media
 ## Magazines and Blogs
+* [BeInCrypto](https://beincrypto.com/) - A news website in 10 different languages that specializes in cryptocurrency, privacy, and fintech. 
 * [CryptoHackers](https://cryptohackers.party/) - Cryptoworld superheroes interviews. Fascinating facts, teams insides and success stories.
 * [CoinTelegraph](https://cointelegraph.com/) - The leading publication offering latest news, analysis, expert opinions, community commentaries. Founded in 2013.
 * [CoinDesk](https://www.coindesk.com/) - CoinDesk is the world leader in news and information on digital currencies. 17M mothly users.
